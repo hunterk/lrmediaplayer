@@ -8,7 +8,7 @@
 .core-defs:
   variables:
     CORENAME: ffmpeg
-    MAKEFILE: Makefile
+    MAKEFILE: libretro-ffmpeg/Makefile
     GIT_SUBMODULE_STRATEGY: recursive
 
 # Inclusion templates, required for the build to work
